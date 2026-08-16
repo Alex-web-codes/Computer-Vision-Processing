@@ -1,0 +1,386 @@
+{
+  "semester": 6,
+  "columnTimeHeaders": [
+    "8:00-9:00",
+    "9:00-10:00",
+    "10:00-11:00",
+    "11:00-12:00",
+    "12:00-13:00",
+    "13:00-14:00",
+    "14:00-15:00",
+    "15:00-16:00",
+    "16:00-17:00",
+    "17:00-18:00"
+  ],
+  "classes": [
+    {
+      "name": "EPQ",
+      "day": "Mon",
+      "startColumnHeader": "9:00-10:00",
+      "endColumnHeader": "9:00-10:00",
+      "faculty": "Sahoo Arun K",
+      "room": "AG02",
+      "building": "",
+      "timings": "Mon 9:00 AM - 10:00 AM, Tue 12:00 PM - 1:00 PM, Fri 3:00 PM - 4:00 PM"
+    },
+    {
+      "name": "DisSys",
+      "day": "Mon",
+      "startColumnHeader": "11:00-12:00",
+      "endColumnHeader": "11:00-12:00",
+      "faculty": "Satapathy Utkalika",
+      "room": "AG06",
+      "building": "",
+      "timings": "Mon 11:00 AM - 12:00 PM, Tue 10:00 AM - 11:00 AM, Thu 2:00 PM - 3:00 PM"
+    },
+    {
+      "name": "Cloud Comp",
+      "day": "Mon",
+      "startColumnHeader": "12:00-13:00",
+      "endColumnHeader": "12:00-13:00",
+      "faculty": "Mishra Bharati",
+      "room": "AG06",
+      "building": "",
+      "timings": "Mon 12:00 PM - 1:00 PM, Wed 10:00 AM - 11:00 AM, Thu 3:00 PM - 4:00 PM"
+    },
+    {
+      "name": "SW Engg",
+      "day": "Mon",
+      "startColumnHeader": "17:00-18:00",
+      "endColumnHeader": "17:00-18:00",
+      "faculty": "Dash Sanjit Kumar",
+      "room": "AG06",
+      "building": "",
+      "timings": "Mon 5:00 PM - 6:00 PM, Wed 5:00 PM - 6:00 PM, Thu 5:00 PM - 6:00 PM"
+    },
+    {
+      "name": "EMC",
+      "day": "Tue",
+      "startColumnHeader": "14:00-15:00",
+      "endColumnHeader": "14:00-15:00",
+      "faculty": "Rout Deepak K",
+      "room": "AG02",
+      "building": "",
+      "timings": "Tue 2:00 PM - 3:00 PM, Wed 3:00 PM - 4:00 PM, Fri 9:00 AM - 10:00 AM"
+    },
+    {
+      "name": "ML",
+      "day": "Tue",
+      "startColumnHeader": "15:00-16:00",
+      "endColumnHeader": "15:00-16:00",
+      "faculty": "Vipsita Swati",
+      "room": "AG06",
+      "building": "",
+      "timings": "Tue 3:00 PM - 4:00 PM, Thu 4:00 PM - 5:00 PM, Fri 10:00 AM - 11:00 AM"
+    },
+    {
+      "name": "ML Lab",
+      "day": "Wed",
+      "startColumnHeader": "11:00-13:00",
+      "endColumnHeader": "11:00-13:00",
+      "faculty": "Vipsita Swati",
+      "room": "A120 BYOD Lab",
+      "building": "",
+      "timings": "Wed 11:00 AM - 1:00 PM, Thu 11:00 AM - 1:00 PM"
+    },
+    {
+      "name": "TW",
+      "day": "Wed",
+      "startColumnHeader": "14:00-15:00",
+      "endColumnHeader": "14:00-15:00",
+      "faculty": "CS Faculty",
+      "room": "A112",
+      "building": "",
+      "timings": "Wed 2:00 PM - 3:00 PM"
+    }
+  ],
+  "metadata": {
+    "file_name": "7th Sem CSEA.pdf",
+    "generated_at": "2026-08-15T12:16:39.346866",
+    "total_days": 5,
+    "total_time_slots": 10,
+    "total_entries": 21
+  },
+  "days": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday"
+  ],
+  "time_slots": [
+    "8:00-9:00",
+    "9:00-10:00",
+    "10:00-11:00",
+    "11:00-12:00",
+    "12:00-13:00",
+    "13:00-14:00",
+    "14:00-15:00",
+    "15:00-16:00",
+    "16:00-17:00",
+    "17:00-18:00"
+  ],
+  "schedule": [
+    {
+      "day": "Monday",
+      "time_slot": "9:00-10:00",
+      "subject": "EPQ",
+      "room": "AG02",
+      "faculty": "Sahoo Arun K",
+      "raw_content": "EPQ Sahoo Arun K AG02"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "11:00-12:00",
+      "subject": "DisSys",
+      "room": "AG06",
+      "faculty": "Satapathy Utkalika",
+      "raw_content": "DisSys Satapathy Utkalika AG06"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "12:00-13:00",
+      "subject": "Cloud Comp",
+      "room": "AG06",
+      "faculty": "Mishra Bharati",
+      "raw_content": "Cloud Comp Mishra Bharati AG06"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "17:00-18:00",
+      "subject": "SW Engg",
+      "room": "AG06",
+      "faculty": "Dash Sanjit Kumar",
+      "raw_content": "SW Engg Dash Sanjit Kumar AG06"
+    },
+    {
+      "day": "Tuesday",
+      "time_slot": "10:00-11:00",
+      "subject": "DisSys",
+      "room": "AG06",
+      "faculty": "Satapathy Utkalika",
+      "raw_content": "DisSys Satapathy Utkalika AG06"
+    },
+    {
+      "day": "Tuesday",
+      "time_slot": "12:00-13:00",
+      "subject": "EPQ",
+      "room": "AG02",
+      "faculty": "Sahoo Arun K",
+      "raw_content": "EPQ Sahoo Arun K AG02"
+    },
+    {
+      "day": "Tuesday",
+      "time_slot": "14:00-15:00",
+      "subject": "EMC",
+      "room": "AG02",
+      "faculty": "Rout Deepak K",
+      "raw_content": "EMC Rout Deepak K AG02"
+    },
+    {
+      "day": "Tuesday",
+      "time_slot": "15:00-16:00",
+      "subject": "ML",
+      "room": "AG06",
+      "faculty": "Vipsita Swati",
+      "raw_content": "ML Vipsita Swati AG06"
+    },
+    {
+      "day": "Wednesday",
+      "time_slot": "10:00-11:00",
+      "subject": "Cloud Comp",
+      "room": "AG06",
+      "faculty": "Mishra Bharati",
+      "raw_content": "Cloud Comp Mishra Bharati AG06"
+    },
+    {
+      "day": "Wednesday",
+      "time_slot": "11:00-13:00",
+      "subject": "ML Lab",
+      "room": "A120 BYOD Lab",
+      "faculty": "Vipsita Swati",
+      "raw_content": "7th BT CSEA-1 ML Lab Vipsita Swati A120 BYOD Lab"
+    },
+    {
+      "day": "Wednesday",
+      "time_slot": "14:00-15:00",
+      "subject": "TW",
+      "room": "A112",
+      "faculty": "CS Faculty",
+      "raw_content": "TW CS Faculty A112"
+    },
+    {
+      "day": "Wednesday",
+      "time_slot": "15:00-16:00",
+      "subject": "EMC",
+      "room": "AG02",
+      "faculty": "Rout Deepak K",
+      "raw_content": "EMC Rout Deepak K AG02"
+    },
+    {
+      "day": "Wednesday",
+      "time_slot": "17:00-18:00",
+      "subject": "SW Engg",
+      "room": "AG06",
+      "faculty": "Dash Sanjit Kumar",
+      "raw_content": "SW Engg Dash Sanjit Kumar AG06"
+    },
+    {
+      "day": "Thursday",
+      "time_slot": "11:00-13:00",
+      "subject": "ML Lab",
+      "room": "A120 BYOD Lab",
+      "faculty": "Vipsita Swati",
+      "raw_content": "7th BT CSEA-2 ML Lab Vipsita Swati A120 BYOD Lab"
+    },
+    {
+      "day": "Thursday",
+      "time_slot": "14:00-15:00",
+      "subject": "DisSys",
+      "room": "AG06",
+      "faculty": "Satapathy Utkalika",
+      "raw_content": "DisSys Satapathy Utkalika AG06"
+    },
+    {
+      "day": "Thursday",
+      "time_slot": "15:00-16:00",
+      "subject": "Cloud Comp",
+      "room": "AG06",
+      "faculty": "Mishra Bharati",
+      "raw_content": "Cloud Comp Mishra Bharati AG06"
+    },
+    {
+      "day": "Thursday",
+      "time_slot": "16:00-17:00",
+      "subject": "ML",
+      "room": "AG06",
+      "faculty": "Vipsita Swati",
+      "raw_content": "ML Vipsita Swati AG06"
+    },
+    {
+      "day": "Thursday",
+      "time_slot": "17:00-18:00",
+      "subject": "SW Engg",
+      "room": "AG06",
+      "faculty": "Dash Sanjit Kumar",
+      "raw_content": "SW Engg Dash Sanjit Kumar AG06"
+    },
+    {
+      "day": "Friday",
+      "time_slot": "9:00-10:00",
+      "subject": "EMC",
+      "room": "AG02",
+      "faculty": "Rout Deepak K",
+      "raw_content": "EMC Rout Deepak K AG02"
+    },
+    {
+      "day": "Friday",
+      "time_slot": "10:00-11:00",
+      "subject": "ML",
+      "room": "AG06",
+      "faculty": "Vipsita Swati",
+      "raw_content": "ML Vipsita Swati AG06"
+    },
+    {
+      "day": "Friday",
+      "time_slot": "15:00-16:00",
+      "subject": "EPQ",
+      "room": "AG02",
+      "faculty": "Sahoo Arun K",
+      "raw_content": "EPQ Sahoo Arun K AG02"
+    }
+  ],
+  "raw_matrix": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "7th BT",
+      "CSEA",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "8:00-9:00",
+      "9:00-10:00",
+      "10:00-11:00",
+      "11:00-12:00",
+      "12:00-13:00",
+      "13:00-14:00",
+      "14:00-15:00",
+      "15:00-16:00",
+      "16:00-17:00",
+      "17:00-18:00"
+    ],
+    [
+      "Monday",
+      "",
+      "EPQ\nSahoo Arun K\nAG02",
+      "",
+      "DisSys\nSatapathy Utkalika\nAG06",
+      "Cloud Comp\nMishra Bharati\nAG06",
+      "",
+      "",
+      "",
+      "",
+      "SW Engg\nDash Sanjit Kumar\nAG06"
+    ],
+    [
+      "Tuesday",
+      "",
+      "",
+      "DisSys\nSatapathy Utkalika\nAG06",
+      "",
+      "EPQ\nSahoo Arun K\nAG02",
+      "",
+      "EMC\nRout Deepak K\nAG02",
+      "ML\nVipsita Swati\nAG06",
+      "",
+      ""
+    ],
+    [
+      "Wednesday",
+      "",
+      "",
+      "Cloud Comp\nMishra Bharati\nAG06",
+      "7th BT\nML\nVipsita\nA120 BY",
+      "CSEA-1\nLab\nSwati\nOD Lab",
+      "",
+      "TW\nCS Faculty\nA112",
+      "EMC\nRout Deepak K\nAG02",
+      "",
+      "SW Engg\nDash Sanjit Kumar\nAG06"
+    ],
+    [
+      "Thursday",
+      "",
+      "",
+      "",
+      "7th BT\nML\nVipsita\nA120 BY",
+      "CSEA-2\nLab\nSwati\nOD Lab",
+      "",
+      "DisSys\nSatapathy Utkalika\nAG06",
+      "Cloud Comp\nMishra Bharati\nAG06",
+      "ML\nVipsita Swati\nAG06",
+      "SW Engg\nDash Sanjit Kumar\nAG06"
+    ],
+    [
+      "Friday",
+      "",
+      "EMC\nRout Deepak K\nAG02",
+      "ML\nVipsita Swati\nAG06",
+      "",
+      "",
+      "",
+      "",
+      "EPQ\nSahoo Arun K\nAG02",
+      "",
+      ""
+    ]
+  ]
+}

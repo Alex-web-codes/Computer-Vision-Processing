@@ -1,0 +1,523 @@
+{
+  "metadata": {
+    "file_name": "bce862d7_test_csea.pdf",
+    "generated_at": "2026-08-12T20:54:36.813797",
+    "total_days": 5,
+    "total_time_slots": 10,
+    "total_entries": 50
+  },
+  "days": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday"
+  ],
+  "time_slots": [
+    "8:00-9:00",
+    "9:00-10:00",
+    "10:00-11:00",
+    "11:00-12:00",
+    "12:00-13:00",
+    "13:00-14:00",
+    "14:00-15:00",
+    "15:00-16:00",
+    "16:00-17:00",
+    "17:00-18:00"
+  ],
+  "schedule": [
+    {
+      "day": "Monday",
+      "time_slot": "8:00-9:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Monday",
+      "time_slot": "9:00-10:00",
+      "subject": "EPQ Sahoo Arun K",
+      "room": "AG02",
+      "faculty": "",
+      "raw_content": "EPQ Sahoo Arun K AG02"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "10:00-11:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Monday",
+      "time_slot": "11:00-12:00",
+      "subject": "DisSys Satapathy Utkalika",
+      "room": "AG06",
+      "faculty": "",
+      "raw_content": "DisSys Satapathy Utkalika AG06"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "12:00-13:00",
+      "subject": "Cloud Comp Mishra Bharati",
+      "room": "AG06",
+      "faculty": "",
+      "raw_content": "Cloud Comp Mishra Bharati AG06"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "13:00-14:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Monday",
+      "time_slot": "14:00-15:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Monday",
+      "time_slot": "15:00-16:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Monday",
+      "time_slot": "16:00-17:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Monday",
+      "time_slot": "17:00-18:00",
+      "subject": "SW Engg Dash Sanjit Kumar",
+      "room": "AG06",
+      "faculty": "",
+      "raw_content": "SW Engg Dash Sanjit Kumar AG06"
+    },
+    {
+      "day": "Tuesday",
+      "time_slot": "8:00-9:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Tuesday",
+      "time_slot": "9:00-10:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Tuesday",
+      "time_slot": "10:00-11:00",
+      "subject": "DisSys Satapathy Utkalika",
+      "room": "AG06",
+      "faculty": "",
+      "raw_content": "DisSys Satapathy Utkalika AG06"
+    },
+    {
+      "day": "Tuesday",
+      "time_slot": "11:00-12:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Tuesday",
+      "time_slot": "12:00-13:00",
+      "subject": "EPQ Sahoo Arun K",
+      "room": "AG02",
+      "faculty": "",
+      "raw_content": "EPQ Sahoo Arun K AG02"
+    },
+    {
+      "day": "Tuesday",
+      "time_slot": "13:00-14:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Tuesday",
+      "time_slot": "14:00-15:00",
+      "subject": "EMC Rout Deepak K",
+      "room": "AG02",
+      "faculty": "",
+      "raw_content": "EMC Rout Deepak K AG02"
+    },
+    {
+      "day": "Tuesday",
+      "time_slot": "15:00-16:00",
+      "subject": "ML Vipsita Swati",
+      "room": "AG06",
+      "faculty": "",
+      "raw_content": "ML Vipsita Swati AG06"
+    },
+    {
+      "day": "Tuesday",
+      "time_slot": "16:00-17:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Tuesday",
+      "time_slot": "17:00-18:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Wednesday",
+      "time_slot": "8:00-9:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Wednesday",
+      "time_slot": "9:00-10:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Wednesday",
+      "time_slot": "10:00-11:00",
+      "subject": "Cloud Comp Mishra Bharati",
+      "room": "AG06",
+      "faculty": "",
+      "raw_content": "Cloud Comp Mishra Bharati AG06"
+    },
+    {
+      "day": "Wednesday",
+      "time_slot": "11:00-12:00",
+      "subject": "7th BT ML Vipsita  BY",
+      "room": "A120",
+      "faculty": "",
+      "raw_content": "7th BT ML Vipsita A120 BY"
+    },
+    {
+      "day": "Wednesday",
+      "time_slot": "12:00-13:00",
+      "subject": "CSEA-1  OD Lab",
+      "room": "Lab Swati",
+      "faculty": "",
+      "raw_content": "CSEA-1 Lab Swati OD Lab"
+    },
+    {
+      "day": "Wednesday",
+      "time_slot": "13:00-14:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Wednesday",
+      "time_slot": "14:00-15:00",
+      "subject": "TW CS Faculty",
+      "room": "A112",
+      "faculty": "",
+      "raw_content": "TW CS Faculty A112"
+    },
+    {
+      "day": "Wednesday",
+      "time_slot": "15:00-16:00",
+      "subject": "EMC Rout Deepak K",
+      "room": "AG02",
+      "faculty": "",
+      "raw_content": "EMC Rout Deepak K AG02"
+    },
+    {
+      "day": "Wednesday",
+      "time_slot": "16:00-17:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Wednesday",
+      "time_slot": "17:00-18:00",
+      "subject": "SW Engg Dash Sanjit Kumar",
+      "room": "AG06",
+      "faculty": "",
+      "raw_content": "SW Engg Dash Sanjit Kumar AG06"
+    },
+    {
+      "day": "Thursday",
+      "time_slot": "8:00-9:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Thursday",
+      "time_slot": "9:00-10:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Thursday",
+      "time_slot": "10:00-11:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Thursday",
+      "time_slot": "11:00-12:00",
+      "subject": "7th BT ML Vipsita  BY",
+      "room": "A120",
+      "faculty": "",
+      "raw_content": "7th BT ML Vipsita A120 BY"
+    },
+    {
+      "day": "Thursday",
+      "time_slot": "12:00-13:00",
+      "subject": "CSEA-2  OD Lab",
+      "room": "Lab Swati",
+      "faculty": "",
+      "raw_content": "CSEA-2 Lab Swati OD Lab"
+    },
+    {
+      "day": "Thursday",
+      "time_slot": "13:00-14:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Thursday",
+      "time_slot": "14:00-15:00",
+      "subject": "DisSys Satapathy Utkalika",
+      "room": "AG06",
+      "faculty": "",
+      "raw_content": "DisSys Satapathy Utkalika AG06"
+    },
+    {
+      "day": "Thursday",
+      "time_slot": "15:00-16:00",
+      "subject": "Cloud Comp Mishra Bharati",
+      "room": "AG06",
+      "faculty": "",
+      "raw_content": "Cloud Comp Mishra Bharati AG06"
+    },
+    {
+      "day": "Thursday",
+      "time_slot": "16:00-17:00",
+      "subject": "ML Vipsita Swati",
+      "room": "AG06",
+      "faculty": "",
+      "raw_content": "ML Vipsita Swati AG06"
+    },
+    {
+      "day": "Thursday",
+      "time_slot": "17:00-18:00",
+      "subject": "SW Engg Dash Sanjit Kumar",
+      "room": "AG06",
+      "faculty": "",
+      "raw_content": "SW Engg Dash Sanjit Kumar AG06"
+    },
+    {
+      "day": "Friday",
+      "time_slot": "8:00-9:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Friday",
+      "time_slot": "9:00-10:00",
+      "subject": "EMC Rout Deepak K",
+      "room": "AG02",
+      "faculty": "",
+      "raw_content": "EMC Rout Deepak K AG02"
+    },
+    {
+      "day": "Friday",
+      "time_slot": "10:00-11:00",
+      "subject": "ML Vipsita Swati",
+      "room": "AG06",
+      "faculty": "",
+      "raw_content": "ML Vipsita Swati AG06"
+    },
+    {
+      "day": "Friday",
+      "time_slot": "11:00-12:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Friday",
+      "time_slot": "12:00-13:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Friday",
+      "time_slot": "13:00-14:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Friday",
+      "time_slot": "14:00-15:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Friday",
+      "time_slot": "15:00-16:00",
+      "subject": "EPQ Sahoo Arun K",
+      "room": "AG02",
+      "faculty": "",
+      "raw_content": "EPQ Sahoo Arun K AG02"
+    },
+    {
+      "day": "Friday",
+      "time_slot": "16:00-17:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Friday",
+      "time_slot": "17:00-18:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    }
+  ],
+  "raw_matrix": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "7th BT",
+      "CSEA",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "8:00-9:00",
+      "9:00-10:00",
+      "10:00-11:00",
+      "11:00-12:00",
+      "12:00-13:00",
+      "13:00-14:00",
+      "14:00-15:00",
+      "15:00-16:00",
+      "16:00-17:00",
+      "17:00-18:00"
+    ],
+    [
+      "Monday",
+      "",
+      "EPQ Sahoo Arun K AG02",
+      "",
+      "DisSys Satapathy Utkalika AG06",
+      "Cloud Comp Mishra Bharati AG06",
+      "",
+      "",
+      "",
+      "",
+      "SW Engg Dash Sanjit Kumar AG06"
+    ],
+    [
+      "Tuesday",
+      "",
+      "",
+      "DisSys Satapathy Utkalika AG06",
+      "",
+      "EPQ Sahoo Arun K AG02",
+      "",
+      "EMC Rout Deepak K AG02",
+      "ML Vipsita Swati AG06",
+      "",
+      ""
+    ],
+    [
+      "Wednesday",
+      "",
+      "",
+      "Cloud Comp Mishra Bharati AG06",
+      "7th BT ML Vipsita A120 BY",
+      "CSEA-1 Lab Swati OD Lab",
+      "",
+      "TW CS Faculty A112",
+      "EMC Rout Deepak K AG02",
+      "",
+      "SW Engg Dash Sanjit Kumar AG06"
+    ],
+    [
+      "Thursday",
+      "",
+      "",
+      "",
+      "7th BT ML Vipsita A120 BY",
+      "CSEA-2 Lab Swati OD Lab",
+      "",
+      "DisSys Satapathy Utkalika AG06",
+      "Cloud Comp Mishra Bharati AG06",
+      "ML Vipsita Swati AG06",
+      "SW Engg Dash Sanjit Kumar AG06"
+    ],
+    [
+      "Friday",
+      "",
+      "EMC Rout Deepak K AG02",
+      "ML Vipsita Swati AG06",
+      "",
+      "",
+      "",
+      "",
+      "EPQ Sahoo Arun K AG02",
+      "",
+      ""
+    ]
+  ]
+}

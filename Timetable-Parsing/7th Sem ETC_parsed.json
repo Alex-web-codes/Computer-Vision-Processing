@@ -1,0 +1,412 @@
+{
+  "semester": 6,
+  "columnTimeHeaders": [
+    "8:00-9:00",
+    "9:00-10:00",
+    "10:00-11:00",
+    "11:00-12:00",
+    "12:00-13:00",
+    "13:00-14:00",
+    "14:00-15:00",
+    "15:00-16:00",
+    "16:00-17:00",
+    "17:00-18:00"
+  ],
+  "classes": [
+    {
+      "name": "SCSD",
+      "day": "Mon",
+      "startColumnHeader": "9:00-10:00",
+      "endColumnHeader": "9:00-10:00",
+      "faculty": "Mishra Sanjeev K",
+      "room": "C102",
+      "building": "",
+      "timings": "Mon 9:00 AM - 10:00 AM, Wed 12:00 PM - 1:00 PM, Fri 12:00 PM - 1:00 PM"
+    },
+    {
+      "name": "EPQ",
+      "day": "Mon",
+      "startColumnHeader": "10:00-11:00",
+      "endColumnHeader": "10:00-11:00",
+      "faculty": "Subudhi Umamani",
+      "room": "AG02",
+      "building": "",
+      "timings": "Mon 10:00 AM - 11:00 AM, Tue 3:00 PM - 4:00 PM, Thu 10:00 AM - 11:00 AM"
+    },
+    {
+      "name": "IPCV",
+      "day": "Mon",
+      "startColumnHeader": "12:00-13:00",
+      "endColumnHeader": "12:00-13:00",
+      "faculty": "Biswal Pradyut K",
+      "room": "C102",
+      "building": "",
+      "timings": "Mon 12:00 PM - 1:00 PM, Thu 11:00 AM - 12:00 PM, Fri 9:00 AM - 10:00 AM"
+    },
+    {
+      "name": "IP Lab",
+      "day": "Tue",
+      "startColumnHeader": "9:00-11:00",
+      "endColumnHeader": "9:00-11:00",
+      "faculty": "Rout Deepak K",
+      "room": "C112 DSP Lab",
+      "building": "",
+      "timings": "Tue 9:00 AM - 11:00 AM, Fri 2:00 PM - 4:00 PM"
+    },
+    {
+      "name": "WMC",
+      "day": "Tue",
+      "startColumnHeader": "12:00-13:00",
+      "endColumnHeader": "12:00-13:00",
+      "faculty": "Mohanty Subrata K",
+      "room": "C102",
+      "building": "",
+      "timings": "Tue 12:00 PM - 1:00 PM, Thu 9:00 AM - 10:00 AM, Fri 11:00 AM - 12:00 PM"
+    },
+    {
+      "name": "Mod Check",
+      "day": "Tue",
+      "startColumnHeader": "16:00-17:00",
+      "endColumnHeader": "16:00-17:00",
+      "faculty": "Sahoo Tushar R",
+      "room": "C202",
+      "building": "",
+      "timings": "Tue 4:00 PM - 5:00 PM, Wed 4:00 PM - 5:00 PM, Thu 12:00 PM - 1:00 PM"
+    },
+    {
+      "name": "ESD Lab",
+      "day": "Tue",
+      "startColumnHeader": "9:00-11:00",
+      "endColumnHeader": "9:00-11:00",
+      "faculty": "Giri Rajat K",
+      "room": "C111",
+      "building": "",
+      "timings": "Tue 9:00 AM - 11:00 AM, Fri 2:00 PM - 4:00 PM"
+    },
+    {
+      "name": "ETC-Acad Proj",
+      "day": "Wed",
+      "startColumnHeader": "9:00-11:00",
+      "endColumnHeader": "9:00-11:00",
+      "faculty": "ETC Faculty",
+      "room": "",
+      "building": "",
+      "timings": "Wed 9:00 AM - 11:00 AM, Fri 10:00 AM - 11:00 AM"
+    }
+  ],
+  "metadata": {
+    "file_name": "7th Sem ETC.pdf",
+    "generated_at": "2026-08-15T12:20:12.843237",
+    "total_days": 5,
+    "total_time_slots": 10,
+    "total_entries": 21
+  },
+  "days": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday"
+  ],
+  "time_slots": [
+    "8:00-9:00",
+    "9:00-10:00",
+    "10:00-11:00",
+    "11:00-12:00",
+    "12:00-13:00",
+    "13:00-14:00",
+    "14:00-15:00",
+    "15:00-16:00",
+    "16:00-17:00",
+    "17:00-18:00"
+  ],
+  "schedule": [
+    {
+      "day": "Monday",
+      "time_slot": "9:00-10:00",
+      "subject": "SCSD",
+      "room": "C102",
+      "faculty": "Mishra Sanjeev K",
+      "raw_content": "SCSD Mishra Sanjeev K C102"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "10:00-11:00",
+      "subject": "EPQ",
+      "room": "AG02",
+      "faculty": "Subudhi Umamani",
+      "raw_content": "EPQ Subudhi Umamani AG02"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "12:00-13:00",
+      "subject": "IPCV",
+      "room": "C102",
+      "faculty": "Biswal Pradyut K",
+      "raw_content": "IPCV Biswal Pradyut K C102"
+    },
+    {
+      "day": "Tuesday",
+      "time_slot": "9:00-11:00",
+      "subject": "IP Lab",
+      "room": "C112 DSP Lab",
+      "faculty": "Rout Deepak K",
+      "raw_content": "7th BT ETC-1 IP Lab Rout Deepak K C112 DSP Lab"
+    },
+    {
+      "day": "Tuesday",
+      "time_slot": "12:00-13:00",
+      "subject": "WMC",
+      "room": "C102",
+      "faculty": "Mohanty Subrata K",
+      "raw_content": "WMC Mohanty Subrata K C102"
+    },
+    {
+      "day": "Tuesday",
+      "time_slot": "15:00-16:00",
+      "subject": "EPQ",
+      "room": "AG02",
+      "faculty": "Subudhi Umamani",
+      "raw_content": "EPQ Subudhi Umamani AG02"
+    },
+    {
+      "day": "Tuesday",
+      "time_slot": "16:00-17:00",
+      "subject": "Mod Check",
+      "room": "C202",
+      "faculty": "Sahoo Tushar R",
+      "raw_content": "Mod Check Sahoo Tushar R C202"
+    },
+    {
+      "day": "Tuesday",
+      "time_slot": "9:00-11:00",
+      "subject": "ESD Lab",
+      "room": "C111",
+      "faculty": "Giri Rajat K",
+      "raw_content": "7th BT ETC-2 ESD Lab Giri Rajat K C111"
+    },
+    {
+      "day": "Wednesday",
+      "time_slot": "9:00-11:00",
+      "subject": "ETC-Acad Proj",
+      "room": "",
+      "faculty": "ETC Faculty",
+      "raw_content": "ETC-Acad Proj ETC Faculty"
+    },
+    {
+      "day": "Wednesday",
+      "time_slot": "12:00-13:00",
+      "subject": "SCSD",
+      "room": "C102",
+      "faculty": "Mishra Sanjeev K",
+      "raw_content": "SCSD Mishra Sanjeev K C102"
+    },
+    {
+      "day": "Wednesday",
+      "time_slot": "16:00-17:00",
+      "subject": "Mod Check",
+      "room": "C202",
+      "faculty": "Sahoo Tushar R",
+      "raw_content": "Mod Check Sahoo Tushar R C202"
+    },
+    {
+      "day": "Thursday",
+      "time_slot": "9:00-10:00",
+      "subject": "WMC",
+      "room": "C102",
+      "faculty": "Mohanty Subrata K",
+      "raw_content": "WMC Mohanty Subrata K C102"
+    },
+    {
+      "day": "Thursday",
+      "time_slot": "10:00-11:00",
+      "subject": "EPQ",
+      "room": "AG02",
+      "faculty": "Subudhi Umamani",
+      "raw_content": "EPQ Subudhi Umamani AG02"
+    },
+    {
+      "day": "Thursday",
+      "time_slot": "11:00-12:00",
+      "subject": "IPCV",
+      "room": "C102",
+      "faculty": "Biswal Pradyut K",
+      "raw_content": "IPCV Biswal Pradyut K C102"
+    },
+    {
+      "day": "Thursday",
+      "time_slot": "12:00-13:00",
+      "subject": "Mod Check",
+      "room": "C202",
+      "faculty": "Sahoo Tushar R",
+      "raw_content": "Mod Check Sahoo Tushar R C202"
+    },
+    {
+      "day": "Friday",
+      "time_slot": "9:00-10:00",
+      "subject": "IPCV",
+      "room": "C102",
+      "faculty": "Biswal Pradyut K",
+      "raw_content": "IPCV Biswal Pradyut K C102"
+    },
+    {
+      "day": "Friday",
+      "time_slot": "10:00-11:00",
+      "subject": "ETC-Acad Proj",
+      "room": "",
+      "faculty": "ETC Faculty",
+      "raw_content": "ETC-Acad Proj ETC Faculty"
+    },
+    {
+      "day": "Friday",
+      "time_slot": "11:00-12:00",
+      "subject": "WMC",
+      "room": "C102",
+      "faculty": "Mohanty Subrata K",
+      "raw_content": "WMC Mohanty Subrata K C102"
+    },
+    {
+      "day": "Friday",
+      "time_slot": "12:00-13:00",
+      "subject": "SCSD",
+      "room": "C102",
+      "faculty": "Mishra Sanjeev K",
+      "raw_content": "SCSD Mishra Sanjeev K C102"
+    },
+    {
+      "day": "Friday",
+      "time_slot": "14:00-16:00",
+      "subject": "ESD Lab",
+      "room": "C111",
+      "faculty": "Giri Rajat K",
+      "raw_content": "7th BT ETC-1 ESD Lab Giri Rajat K C111"
+    },
+    {
+      "day": "Friday",
+      "time_slot": "14:00-16:00",
+      "subject": "IP Lab",
+      "room": "C112 DSP Lab",
+      "faculty": "Rout Deepak K",
+      "raw_content": "7th BT ETC-2 IP Lab Rout Deepak K C112 DSP Lab"
+    }
+  ],
+  "raw_matrix": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "7th B",
+      "T ETC",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "8:00-9:00",
+      "9:00-10:00",
+      "10:00-11:00",
+      "11:00-12:00",
+      "12:00-13:00",
+      "13:00-14:00",
+      "14:00-15:00",
+      "15:00-16:00",
+      "16:00-17:00",
+      "17:00-18:00"
+    ],
+    [
+      "Monday",
+      "",
+      "SCSD\nMishra Sanjeev K\nC102",
+      "EPQ\nSubudhi Umamani\nAG02",
+      "",
+      "IPCV\nBiswal Pradyut K\nC102",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Tuesday",
+      "",
+      "7th BT\nIP\nRout De\nC112 D",
+      "ETC-1\nLab\nepak K\nSP Lab",
+      "",
+      "WMC\nMohanty Subrata K\nC102",
+      "",
+      "",
+      "EPQ\nSubudhi Umamani\nAG02",
+      "Mod Check\nSahoo Tushar R\nC202",
+      ""
+    ],
+    [
+      "",
+      "",
+      "7th BT\nESD\nGiri R\nC1",
+      "ETC-2\nLab\najat K\n11",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Wednesday",
+      "",
+      "ETC-Ac\nETC F",
+      "ad Proj\naculty",
+      "",
+      "SCSD\nMishra Sanjeev K\nC102",
+      "",
+      "",
+      "",
+      "Mod Check\nSahoo Tushar R\nC202",
+      ""
+    ],
+    [
+      "Thursday",
+      "",
+      "WMC\nMohanty Subrata K\nC102",
+      "EPQ\nSubudhi Umamani\nAG02",
+      "IPCV\nBiswal Pradyut K\nC102",
+      "Mod Check\nSahoo Tushar R\nC202",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Friday",
+      "",
+      "IPCV\nBiswal Pradyut K\nC102",
+      "ETC-Acad Proj\nETC Faculty",
+      "WMC\nMohanty Subrata K\nC102",
+      "SCSD\nMishra Sanjeev K\nC102",
+      "",
+      "7th BT\nESD\nGiri R\nC1",
+      "ETC-1\nLab\najat K\n11",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "7th BT\nIP\nRout De\nC112 D",
+      "ETC-2\nLab\nepak K\nSP Lab",
+      "",
+      ""
+    ]
+  ]
+}

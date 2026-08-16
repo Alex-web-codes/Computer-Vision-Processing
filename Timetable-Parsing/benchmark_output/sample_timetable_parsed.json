@@ -1,0 +1,724 @@
+{
+  "semester": 6,
+  "columnTimeHeaders": [
+    "Cell(0,0)"
+  ],
+  "classes": [
+    {
+      "name": "Cell(1,0)",
+      "day": "Mon",
+      "startColumnHeader": "Cell(0,0)",
+      "endColumnHeader": "Cell(0,0)",
+      "faculty": "",
+      "room": "",
+      "building": "",
+      "timings": "Mon Cell(0,0)"
+    },
+    {
+      "name": "Cell(1,1)",
+      "day": "Mon",
+      "startColumnHeader": "Slot_2",
+      "endColumnHeader": "Slot_2",
+      "faculty": "",
+      "room": "",
+      "building": "",
+      "timings": "Mon Slot_2"
+    },
+    {
+      "name": "Cell(1,2)",
+      "day": "Mon",
+      "startColumnHeader": "Slot_3",
+      "endColumnHeader": "Slot_3",
+      "faculty": "",
+      "room": "",
+      "building": "",
+      "timings": "Mon Slot_3"
+    },
+    {
+      "name": "Cell(1,3)",
+      "day": "Mon",
+      "startColumnHeader": "Slot_4",
+      "endColumnHeader": "Slot_4",
+      "faculty": "",
+      "room": "",
+      "building": "",
+      "timings": "Mon Slot_4"
+    },
+    {
+      "name": "Cell(1,4)",
+      "day": "Mon",
+      "startColumnHeader": "Slot_5",
+      "endColumnHeader": "Slot_5",
+      "faculty": "",
+      "room": "",
+      "building": "",
+      "timings": "Mon Slot_5"
+    },
+    {
+      "name": "Cell(1,5)",
+      "day": "Mon",
+      "startColumnHeader": "Slot_6",
+      "endColumnHeader": "Slot_6",
+      "faculty": "",
+      "room": "",
+      "building": "",
+      "timings": "Mon Slot_6"
+    },
+    {
+      "name": "Cell(2,0)",
+      "day": "Mon",
+      "startColumnHeader": "Cell(0,0)",
+      "endColumnHeader": "Cell(0,0)",
+      "faculty": "",
+      "room": "",
+      "building": "",
+      "timings": "Mon Cell(0,0)"
+    },
+    {
+      "name": "Cell(2,1)",
+      "day": "Mon",
+      "startColumnHeader": "Slot_2",
+      "endColumnHeader": "Slot_2",
+      "faculty": "",
+      "room": "",
+      "building": "",
+      "timings": "Mon Slot_2"
+    },
+    {
+      "name": "Cell(2,2)",
+      "day": "Mon",
+      "startColumnHeader": "Slot_3",
+      "endColumnHeader": "Slot_3",
+      "faculty": "",
+      "room": "",
+      "building": "",
+      "timings": "Mon Slot_3"
+    },
+    {
+      "name": "Cell(2,3)",
+      "day": "Mon",
+      "startColumnHeader": "Slot_4",
+      "endColumnHeader": "Slot_4",
+      "faculty": "",
+      "room": "",
+      "building": "",
+      "timings": "Mon Slot_4"
+    },
+    {
+      "name": "Cell(2,4)",
+      "day": "Mon",
+      "startColumnHeader": "Slot_5",
+      "endColumnHeader": "Slot_5",
+      "faculty": "",
+      "room": "",
+      "building": "",
+      "timings": "Mon Slot_5"
+    },
+    {
+      "name": "Cell(2,5)",
+      "day": "Mon",
+      "startColumnHeader": "Slot_6",
+      "endColumnHeader": "Slot_6",
+      "faculty": "",
+      "room": "",
+      "building": "",
+      "timings": "Mon Slot_6"
+    },
+    {
+      "name": "Cell(3,0)",
+      "day": "Mon",
+      "startColumnHeader": "Cell(0,0)",
+      "endColumnHeader": "Cell(0,0)",
+      "faculty": "",
+      "room": "",
+      "building": "",
+      "timings": "Mon Cell(0,0)"
+    },
+    {
+      "name": "Cell(3,1)",
+      "day": "Mon",
+      "startColumnHeader": "Slot_2",
+      "endColumnHeader": "Slot_2",
+      "faculty": "",
+      "room": "",
+      "building": "",
+      "timings": "Mon Slot_2"
+    },
+    {
+      "name": "Cell(3,2)",
+      "day": "Mon",
+      "startColumnHeader": "Slot_3",
+      "endColumnHeader": "Slot_3",
+      "faculty": "",
+      "room": "",
+      "building": "",
+      "timings": "Mon Slot_3"
+    },
+    {
+      "name": "Cell(3,3)",
+      "day": "Mon",
+      "startColumnHeader": "Slot_4",
+      "endColumnHeader": "Slot_4",
+      "faculty": "",
+      "room": "",
+      "building": "",
+      "timings": "Mon Slot_4"
+    },
+    {
+      "name": "Cell(3,4)",
+      "day": "Mon",
+      "startColumnHeader": "Slot_5",
+      "endColumnHeader": "Slot_5",
+      "faculty": "",
+      "room": "",
+      "building": "",
+      "timings": "Mon Slot_5"
+    },
+    {
+      "name": "Cell(3,5)",
+      "day": "Mon",
+      "startColumnHeader": "Slot_6",
+      "endColumnHeader": "Slot_6",
+      "faculty": "",
+      "room": "",
+      "building": "",
+      "timings": "Mon Slot_6"
+    },
+    {
+      "name": "Cell(4,0)",
+      "day": "Mon",
+      "startColumnHeader": "Cell(0,0)",
+      "endColumnHeader": "Cell(0,0)",
+      "faculty": "",
+      "room": "",
+      "building": "",
+      "timings": "Mon Cell(0,0)"
+    },
+    {
+      "name": "Cell(4,1)",
+      "day": "Mon",
+      "startColumnHeader": "Slot_2",
+      "endColumnHeader": "Slot_2",
+      "faculty": "",
+      "room": "",
+      "building": "",
+      "timings": "Mon Slot_2"
+    },
+    {
+      "name": "Cell(4,2)",
+      "day": "Mon",
+      "startColumnHeader": "Slot_3",
+      "endColumnHeader": "Slot_3",
+      "faculty": "",
+      "room": "",
+      "building": "",
+      "timings": "Mon Slot_3"
+    },
+    {
+      "name": "Cell(4,3)",
+      "day": "Mon",
+      "startColumnHeader": "Slot_4",
+      "endColumnHeader": "Slot_4",
+      "faculty": "",
+      "room": "",
+      "building": "",
+      "timings": "Mon Slot_4"
+    },
+    {
+      "name": "Cell(4,4)",
+      "day": "Mon",
+      "startColumnHeader": "Slot_5",
+      "endColumnHeader": "Slot_5",
+      "faculty": "",
+      "room": "",
+      "building": "",
+      "timings": "Mon Slot_5"
+    },
+    {
+      "name": "Cell(4,5)",
+      "day": "Mon",
+      "startColumnHeader": "Slot_6",
+      "endColumnHeader": "Slot_6",
+      "faculty": "",
+      "room": "",
+      "building": "",
+      "timings": "Mon Slot_6"
+    },
+    {
+      "name": "Cell(5,0)",
+      "day": "Mon",
+      "startColumnHeader": "Cell(0,0)",
+      "endColumnHeader": "Cell(0,0)",
+      "faculty": "",
+      "room": "",
+      "building": "",
+      "timings": "Mon Cell(0,0)"
+    },
+    {
+      "name": "Cell(5,1)",
+      "day": "Mon",
+      "startColumnHeader": "Slot_2",
+      "endColumnHeader": "Slot_2",
+      "faculty": "",
+      "room": "",
+      "building": "",
+      "timings": "Mon Slot_2"
+    },
+    {
+      "name": "Cell(5,2)",
+      "day": "Mon",
+      "startColumnHeader": "Slot_3",
+      "endColumnHeader": "Slot_3",
+      "faculty": "",
+      "room": "",
+      "building": "",
+      "timings": "Mon Slot_3"
+    },
+    {
+      "name": "Cell(5,3)",
+      "day": "Mon",
+      "startColumnHeader": "Slot_4",
+      "endColumnHeader": "Slot_4",
+      "faculty": "",
+      "room": "",
+      "building": "",
+      "timings": "Mon Slot_4"
+    },
+    {
+      "name": "Cell(5,4)",
+      "day": "Mon",
+      "startColumnHeader": "Slot_5",
+      "endColumnHeader": "Slot_5",
+      "faculty": "",
+      "room": "",
+      "building": "",
+      "timings": "Mon Slot_5"
+    },
+    {
+      "name": "Cell(5,5)",
+      "day": "Mon",
+      "startColumnHeader": "Slot_6",
+      "endColumnHeader": "Slot_6",
+      "faculty": "",
+      "room": "",
+      "building": "",
+      "timings": "Mon Slot_6"
+    },
+    {
+      "name": "Cell(6,0)",
+      "day": "Mon",
+      "startColumnHeader": "Cell(0,0)",
+      "endColumnHeader": "Cell(0,0)",
+      "faculty": "",
+      "room": "",
+      "building": "",
+      "timings": "Mon Cell(0,0)"
+    },
+    {
+      "name": "Cell(6,1)",
+      "day": "Mon",
+      "startColumnHeader": "Slot_2",
+      "endColumnHeader": "Slot_2",
+      "faculty": "",
+      "room": "",
+      "building": "",
+      "timings": "Mon Slot_2"
+    },
+    {
+      "name": "Cell(6,2)",
+      "day": "Mon",
+      "startColumnHeader": "Slot_3",
+      "endColumnHeader": "Slot_3",
+      "faculty": "",
+      "room": "",
+      "building": "",
+      "timings": "Mon Slot_3"
+    },
+    {
+      "name": "Cell(6,3)",
+      "day": "Mon",
+      "startColumnHeader": "Slot_4",
+      "endColumnHeader": "Slot_4",
+      "faculty": "",
+      "room": "",
+      "building": "",
+      "timings": "Mon Slot_4"
+    },
+    {
+      "name": "Cell(6,4)",
+      "day": "Mon",
+      "startColumnHeader": "Slot_5",
+      "endColumnHeader": "Slot_5",
+      "faculty": "",
+      "room": "",
+      "building": "",
+      "timings": "Mon Slot_5"
+    },
+    {
+      "name": "Cell(6,5)",
+      "day": "Mon",
+      "startColumnHeader": "Slot_6",
+      "endColumnHeader": "Slot_6",
+      "faculty": "",
+      "room": "",
+      "building": "",
+      "timings": "Mon Slot_6"
+    }
+  ],
+  "metadata": {
+    "file_name": "sample_timetable.png",
+    "generated_at": "2026-08-15T12:16:40.729139",
+    "total_days": 1,
+    "total_time_slots": 1,
+    "total_entries": 36
+  },
+  "days": [
+    "Monday"
+  ],
+  "time_slots": [
+    "Cell(0,0)"
+  ],
+  "schedule": [
+    {
+      "day": "Monday",
+      "time_slot": "Cell(0,0)",
+      "subject": "Cell(1,0)",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Cell(1,0)"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "Slot_2",
+      "subject": "Cell(1,1)",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Cell(1,1)"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "Slot_3",
+      "subject": "Cell(1,2)",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Cell(1,2)"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "Slot_4",
+      "subject": "Cell(1,3)",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Cell(1,3)"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "Slot_5",
+      "subject": "Cell(1,4)",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Cell(1,4)"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "Slot_6",
+      "subject": "Cell(1,5)",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Cell(1,5)"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "Cell(0,0)",
+      "subject": "Cell(2,0)",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Cell(2,0)"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "Slot_2",
+      "subject": "Cell(2,1)",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Cell(2,1)"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "Slot_3",
+      "subject": "Cell(2,2)",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Cell(2,2)"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "Slot_4",
+      "subject": "Cell(2,3)",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Cell(2,3)"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "Slot_5",
+      "subject": "Cell(2,4)",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Cell(2,4)"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "Slot_6",
+      "subject": "Cell(2,5)",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Cell(2,5)"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "Cell(0,0)",
+      "subject": "Cell(3,0)",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Cell(3,0)"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "Slot_2",
+      "subject": "Cell(3,1)",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Cell(3,1)"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "Slot_3",
+      "subject": "Cell(3,2)",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Cell(3,2)"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "Slot_4",
+      "subject": "Cell(3,3)",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Cell(3,3)"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "Slot_5",
+      "subject": "Cell(3,4)",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Cell(3,4)"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "Slot_6",
+      "subject": "Cell(3,5)",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Cell(3,5)"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "Cell(0,0)",
+      "subject": "Cell(4,0)",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Cell(4,0)"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "Slot_2",
+      "subject": "Cell(4,1)",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Cell(4,1)"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "Slot_3",
+      "subject": "Cell(4,2)",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Cell(4,2)"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "Slot_4",
+      "subject": "Cell(4,3)",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Cell(4,3)"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "Slot_5",
+      "subject": "Cell(4,4)",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Cell(4,4)"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "Slot_6",
+      "subject": "Cell(4,5)",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Cell(4,5)"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "Cell(0,0)",
+      "subject": "Cell(5,0)",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Cell(5,0)"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "Slot_2",
+      "subject": "Cell(5,1)",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Cell(5,1)"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "Slot_3",
+      "subject": "Cell(5,2)",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Cell(5,2)"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "Slot_4",
+      "subject": "Cell(5,3)",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Cell(5,3)"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "Slot_5",
+      "subject": "Cell(5,4)",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Cell(5,4)"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "Slot_6",
+      "subject": "Cell(5,5)",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Cell(5,5)"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "Cell(0,0)",
+      "subject": "Cell(6,0)",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Cell(6,0)"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "Slot_2",
+      "subject": "Cell(6,1)",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Cell(6,1)"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "Slot_3",
+      "subject": "Cell(6,2)",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Cell(6,2)"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "Slot_4",
+      "subject": "Cell(6,3)",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Cell(6,3)"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "Slot_5",
+      "subject": "Cell(6,4)",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Cell(6,4)"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "Slot_6",
+      "subject": "Cell(6,5)",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Cell(6,5)"
+    }
+  ],
+  "raw_matrix": [
+    [
+      "Cell(0,0)"
+    ],
+    [
+      "Cell(1,0)",
+      "Cell(1,1)",
+      "Cell(1,2)",
+      "Cell(1,3)",
+      "Cell(1,4)",
+      "Cell(1,5)"
+    ],
+    [
+      "Cell(2,0)",
+      "Cell(2,1)",
+      "Cell(2,2)",
+      "Cell(2,3)",
+      "Cell(2,4)",
+      "Cell(2,5)"
+    ],
+    [
+      "Cell(3,0)",
+      "Cell(3,1)",
+      "Cell(3,2)",
+      "Cell(3,3)",
+      "Cell(3,4)",
+      "Cell(3,5)"
+    ],
+    [
+      "Cell(4,0)",
+      "Cell(4,1)",
+      "Cell(4,2)",
+      "Cell(4,3)",
+      "Cell(4,4)",
+      "Cell(4,5)"
+    ],
+    [
+      "Cell(5,0)",
+      "Cell(5,1)",
+      "Cell(5,2)",
+      "Cell(5,3)",
+      "Cell(5,4)",
+      "Cell(5,5)"
+    ],
+    [
+      "Cell(6,0)",
+      "Cell(6,1)",
+      "Cell(6,2)",
+      "Cell(6,3)",
+      "Cell(6,4)",
+      "Cell(6,5)"
+    ]
+  ]
+}

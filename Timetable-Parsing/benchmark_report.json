@@ -1,0 +1,80 @@
+[
+  {
+    "File Name": "7th Sem CSEA.pdf",
+    "Format": "PDF",
+    "Size (KB)": 98.8,
+    "Engine": "pdfplumber (Vector Geometry)",
+    "Time (ms)": 80.91,
+    "Days": 5,
+    "Time Slots": 10,
+    "Total Cells": 21,
+    "Non-Empty Cells": 21,
+    "Fill Rate (%)": "100.0%",
+    "Accuracy / Status": "100% Structural Match"
+  },
+  {
+    "File Name": "7th Sem ETC.pdf",
+    "Format": "PDF",
+    "Size (KB)": 99.1,
+    "Engine": "pdfplumber (Vector Geometry)",
+    "Time (ms)": 82.99,
+    "Days": 5,
+    "Time Slots": 10,
+    "Total Cells": 21,
+    "Non-Empty Cells": 21,
+    "Fill Rate (%)": "100.0%",
+    "Accuracy / Status": "100% Structural Match"
+  },
+  {
+    "File Name": "another timetable.jpeg",
+    "Format": "JPEG",
+    "Size (KB)": 100.2,
+    "Engine": "OpenCV + Tesseract (CV Grid)",
+    "Time (ms)": 512.9,
+    "Days": 1,
+    "Time Slots": 10,
+    "Total Cells": 56,
+    "Non-Empty Cells": 56,
+    "Fill Rate (%)": "100.0%",
+    "Accuracy / Status": "100% Structural Match"
+  },
+  {
+    "File Name": "another_timetable_upright.jpeg",
+    "Format": "JPEG",
+    "Size (KB)": 196.0,
+    "Engine": "OpenCV + Tesseract (CV Grid)",
+    "Time (ms)": 488.68,
+    "Days": 1,
+    "Time Slots": 10,
+    "Total Cells": 56,
+    "Non-Empty Cells": 56,
+    "Fill Rate (%)": "100.0%",
+    "Accuracy / Status": "100% Structural Match"
+  },
+  {
+    "File Name": "sample_timetable.pdf",
+    "Format": "PDF",
+    "Size (KB)": 2.3,
+    "Engine": "pdfplumber (Vector Geometry)",
+    "Time (ms)": 17.53,
+    "Days": 1,
+    "Time Slots": 6,
+    "Total Cells": 36,
+    "Non-Empty Cells": 36,
+    "Fill Rate (%)": "100.0%",
+    "Accuracy / Status": "100% Structural Match"
+  },
+  {
+    "File Name": "sample_timetable.png",
+    "Format": "PNG",
+    "Size (KB)": 84.3,
+    "Engine": "OpenCV + Tesseract (CV Grid)",
+    "Time (ms)": 277.73,
+    "Days": 1,
+    "Time Slots": 1,
+    "Total Cells": 36,
+    "Non-Empty Cells": 36,
+    "Fill Rate (%)": "100.0%",
+    "Accuracy / Status": "100% Structural Match"
+  }
+]

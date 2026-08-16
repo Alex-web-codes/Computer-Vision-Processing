@@ -1,0 +1,711 @@
+{
+  "metadata": {
+    "file_name": "34d7eeed_7th Sem ETC.pdf",
+    "generated_at": "2026-08-12T20:58:21.824567",
+    "total_days": 7,
+    "total_time_slots": 10,
+    "total_entries": 70
+  },
+  "days": [
+    "Monday",
+    "Tuesday",
+    "Day_4",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Day_8"
+  ],
+  "time_slots": [
+    "8:00-9:00",
+    "9:00-10:00",
+    "10:00-11:00",
+    "11:00-12:00",
+    "12:00-13:00",
+    "13:00-14:00",
+    "14:00-15:00",
+    "15:00-16:00",
+    "16:00-17:00",
+    "17:00-18:00"
+  ],
+  "schedule": [
+    {
+      "day": "Monday",
+      "time_slot": "8:00-9:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Monday",
+      "time_slot": "9:00-10:00",
+      "subject": "SCSD Mishra Sanjeev K",
+      "room": "C102",
+      "faculty": "",
+      "raw_content": "SCSD Mishra Sanjeev K C102"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "10:00-11:00",
+      "subject": "EPQ Subudhi Umamani",
+      "room": "AG02",
+      "faculty": "",
+      "raw_content": "EPQ Subudhi Umamani AG02"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "11:00-12:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Monday",
+      "time_slot": "12:00-13:00",
+      "subject": "IPCV Biswal Pradyut K",
+      "room": "C102",
+      "faculty": "",
+      "raw_content": "IPCV Biswal Pradyut K C102"
+    },
+    {
+      "day": "Monday",
+      "time_slot": "13:00-14:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Monday",
+      "time_slot": "14:00-15:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Monday",
+      "time_slot": "15:00-16:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Monday",
+      "time_slot": "16:00-17:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Monday",
+      "time_slot": "17:00-18:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Tuesday",
+      "time_slot": "8:00-9:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Tuesday",
+      "time_slot": "9:00-10:00",
+      "subject": "7th BT IP Rout De  D",
+      "room": "C112",
+      "faculty": "",
+      "raw_content": "7th BT IP Rout De C112 D"
+    },
+    {
+      "day": "Tuesday",
+      "time_slot": "10:00-11:00",
+      "subject": "ETC-1  K SP Lab",
+      "room": "Lab epak",
+      "faculty": "",
+      "raw_content": "ETC-1 Lab epak K SP Lab"
+    },
+    {
+      "day": "Tuesday",
+      "time_slot": "11:00-12:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Tuesday",
+      "time_slot": "12:00-13:00",
+      "subject": "WMC Mohanty Subrata K",
+      "room": "C102",
+      "faculty": "",
+      "raw_content": "WMC Mohanty Subrata K C102"
+    },
+    {
+      "day": "Tuesday",
+      "time_slot": "13:00-14:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Tuesday",
+      "time_slot": "14:00-15:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Tuesday",
+      "time_slot": "15:00-16:00",
+      "subject": "EPQ Subudhi Umamani",
+      "room": "AG02",
+      "faculty": "",
+      "raw_content": "EPQ Subudhi Umamani AG02"
+    },
+    {
+      "day": "Tuesday",
+      "time_slot": "16:00-17:00",
+      "subject": "Mod Check Sahoo Tushar R",
+      "room": "C202",
+      "faculty": "",
+      "raw_content": "Mod Check Sahoo Tushar R C202"
+    },
+    {
+      "day": "Tuesday",
+      "time_slot": "17:00-18:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Day_4",
+      "time_slot": "8:00-9:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Day_4",
+      "time_slot": "9:00-10:00",
+      "subject": "7th BT ESD Giri R C1",
+      "room": "",
+      "faculty": "",
+      "raw_content": "7th BT ESD Giri R C1"
+    },
+    {
+      "day": "Day_4",
+      "time_slot": "10:00-11:00",
+      "subject": "ETC-2  K 11",
+      "room": "Lab ajat",
+      "faculty": "",
+      "raw_content": "ETC-2 Lab ajat K 11"
+    },
+    {
+      "day": "Day_4",
+      "time_slot": "11:00-12:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Day_4",
+      "time_slot": "12:00-13:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Day_4",
+      "time_slot": "13:00-14:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Day_4",
+      "time_slot": "14:00-15:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Day_4",
+      "time_slot": "15:00-16:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Day_4",
+      "time_slot": "16:00-17:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Day_4",
+      "time_slot": "17:00-18:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Wednesday",
+      "time_slot": "8:00-9:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Wednesday",
+      "time_slot": "9:00-10:00",
+      "subject": "ETC-Ac ETC F",
+      "room": "",
+      "faculty": "",
+      "raw_content": "ETC-Ac ETC F"
+    },
+    {
+      "day": "Wednesday",
+      "time_slot": "10:00-11:00",
+      "subject": "ad Proj aculty",
+      "room": "",
+      "faculty": "",
+      "raw_content": "ad Proj aculty"
+    },
+    {
+      "day": "Wednesday",
+      "time_slot": "11:00-12:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Wednesday",
+      "time_slot": "12:00-13:00",
+      "subject": "SCSD Mishra Sanjeev K",
+      "room": "C102",
+      "faculty": "",
+      "raw_content": "SCSD Mishra Sanjeev K C102"
+    },
+    {
+      "day": "Wednesday",
+      "time_slot": "13:00-14:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Wednesday",
+      "time_slot": "14:00-15:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Wednesday",
+      "time_slot": "15:00-16:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Wednesday",
+      "time_slot": "16:00-17:00",
+      "subject": "Mod Check Sahoo Tushar R",
+      "room": "C202",
+      "faculty": "",
+      "raw_content": "Mod Check Sahoo Tushar R C202"
+    },
+    {
+      "day": "Wednesday",
+      "time_slot": "17:00-18:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Thursday",
+      "time_slot": "8:00-9:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Thursday",
+      "time_slot": "9:00-10:00",
+      "subject": "WMC Mohanty Subrata K",
+      "room": "C102",
+      "faculty": "",
+      "raw_content": "WMC Mohanty Subrata K C102"
+    },
+    {
+      "day": "Thursday",
+      "time_slot": "10:00-11:00",
+      "subject": "EPQ Subudhi Umamani",
+      "room": "AG02",
+      "faculty": "",
+      "raw_content": "EPQ Subudhi Umamani AG02"
+    },
+    {
+      "day": "Thursday",
+      "time_slot": "11:00-12:00",
+      "subject": "IPCV Biswal Pradyut K",
+      "room": "C102",
+      "faculty": "",
+      "raw_content": "IPCV Biswal Pradyut K C102"
+    },
+    {
+      "day": "Thursday",
+      "time_slot": "12:00-13:00",
+      "subject": "Mod Check Sahoo Tushar R",
+      "room": "C202",
+      "faculty": "",
+      "raw_content": "Mod Check Sahoo Tushar R C202"
+    },
+    {
+      "day": "Thursday",
+      "time_slot": "13:00-14:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Thursday",
+      "time_slot": "14:00-15:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Thursday",
+      "time_slot": "15:00-16:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Thursday",
+      "time_slot": "16:00-17:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Thursday",
+      "time_slot": "17:00-18:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Friday",
+      "time_slot": "8:00-9:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Friday",
+      "time_slot": "9:00-10:00",
+      "subject": "IPCV Biswal Pradyut K",
+      "room": "C102",
+      "faculty": "",
+      "raw_content": "IPCV Biswal Pradyut K C102"
+    },
+    {
+      "day": "Friday",
+      "time_slot": "10:00-11:00",
+      "subject": "ETC-Acad Proj ETC Faculty",
+      "room": "",
+      "faculty": "",
+      "raw_content": "ETC-Acad Proj ETC Faculty"
+    },
+    {
+      "day": "Friday",
+      "time_slot": "11:00-12:00",
+      "subject": "WMC Mohanty Subrata K",
+      "room": "C102",
+      "faculty": "",
+      "raw_content": "WMC Mohanty Subrata K C102"
+    },
+    {
+      "day": "Friday",
+      "time_slot": "12:00-13:00",
+      "subject": "SCSD Mishra Sanjeev K",
+      "room": "C102",
+      "faculty": "",
+      "raw_content": "SCSD Mishra Sanjeev K C102"
+    },
+    {
+      "day": "Friday",
+      "time_slot": "13:00-14:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Friday",
+      "time_slot": "14:00-15:00",
+      "subject": "7th BT ESD Giri R C1",
+      "room": "",
+      "faculty": "",
+      "raw_content": "7th BT ESD Giri R C1"
+    },
+    {
+      "day": "Friday",
+      "time_slot": "15:00-16:00",
+      "subject": "ETC-1  K 11",
+      "room": "Lab ajat",
+      "faculty": "",
+      "raw_content": "ETC-1 Lab ajat K 11"
+    },
+    {
+      "day": "Friday",
+      "time_slot": "16:00-17:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Friday",
+      "time_slot": "17:00-18:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Day_8",
+      "time_slot": "8:00-9:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Day_8",
+      "time_slot": "9:00-10:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Day_8",
+      "time_slot": "10:00-11:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Day_8",
+      "time_slot": "11:00-12:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Day_8",
+      "time_slot": "12:00-13:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Day_8",
+      "time_slot": "13:00-14:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Day_8",
+      "time_slot": "14:00-15:00",
+      "subject": "7th BT IP Rout De  D",
+      "room": "C112",
+      "faculty": "",
+      "raw_content": "7th BT IP Rout De C112 D"
+    },
+    {
+      "day": "Day_8",
+      "time_slot": "15:00-16:00",
+      "subject": "ETC-2  K SP Lab",
+      "room": "Lab epak",
+      "faculty": "",
+      "raw_content": "ETC-2 Lab epak K SP Lab"
+    },
+    {
+      "day": "Day_8",
+      "time_slot": "16:00-17:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    },
+    {
+      "day": "Day_8",
+      "time_slot": "17:00-18:00",
+      "subject": "",
+      "room": "",
+      "faculty": "",
+      "raw_content": ""
+    }
+  ],
+  "raw_matrix": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "7th B",
+      "T ETC",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "8:00-9:00",
+      "9:00-10:00",
+      "10:00-11:00",
+      "11:00-12:00",
+      "12:00-13:00",
+      "13:00-14:00",
+      "14:00-15:00",
+      "15:00-16:00",
+      "16:00-17:00",
+      "17:00-18:00"
+    ],
+    [
+      "Monday",
+      "",
+      "SCSD Mishra Sanjeev K C102",
+      "EPQ Subudhi Umamani AG02",
+      "",
+      "IPCV Biswal Pradyut K C102",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Tuesday",
+      "",
+      "7th BT IP Rout De C112 D",
+      "ETC-1 Lab epak K SP Lab",
+      "",
+      "WMC Mohanty Subrata K C102",
+      "",
+      "",
+      "EPQ Subudhi Umamani AG02",
+      "Mod Check Sahoo Tushar R C202",
+      ""
+    ],
+    [
+      "",
+      "",
+      "7th BT ESD Giri R C1",
+      "ETC-2 Lab ajat K 11",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Wednesday",
+      "",
+      "ETC-Ac ETC F",
+      "ad Proj aculty",
+      "",
+      "SCSD Mishra Sanjeev K C102",
+      "",
+      "",
+      "",
+      "Mod Check Sahoo Tushar R C202",
+      ""
+    ],
+    [
+      "Thursday",
+      "",
+      "WMC Mohanty Subrata K C102",
+      "EPQ Subudhi Umamani AG02",
+      "IPCV Biswal Pradyut K C102",
+      "Mod Check Sahoo Tushar R C202",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Friday",
+      "",
+      "IPCV Biswal Pradyut K C102",
+      "ETC-Acad Proj ETC Faculty",
+      "WMC Mohanty Subrata K C102",
+      "SCSD Mishra Sanjeev K C102",
+      "",
+      "7th BT ESD Giri R C1",
+      "ETC-1 Lab ajat K 11",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "7th BT IP Rout De C112 D",
+      "ETC-2 Lab epak K SP Lab",
+      "",
+      ""
+    ]
+  ]
+}

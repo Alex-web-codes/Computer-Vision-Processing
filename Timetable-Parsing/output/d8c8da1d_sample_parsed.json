@@ -1,0 +1,373 @@
+{
+  "metadata": {
+    "file_name": "d8c8da1d_sample.pdf",
+    "generated_at": "2026-08-12T20:58:01.472558",
+    "total_days": 6,
+    "total_time_slots": 6,
+    "total_entries": 36
+  },
+  "days": [
+    "Day_1",
+    "Day_2",
+    "Day_3",
+    "Day_4",
+    "Day_5",
+    "Day_6"
+  ],
+  "time_slots": [
+    "Time / Day",
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday"
+  ],
+  "schedule": [
+    {
+      "day": "Day_1",
+      "time_slot": "Time / Day",
+      "subject": "09:00 - 10:00 AM",
+      "room": "",
+      "faculty": "",
+      "raw_content": "09:00 - 10:00 AM"
+    },
+    {
+      "day": "Day_1",
+      "time_slot": "Monday",
+      "subject": "Mathematics",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Mathematics"
+    },
+    {
+      "day": "Day_1",
+      "time_slot": "Tuesday",
+      "subject": "Physics",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Physics"
+    },
+    {
+      "day": "Day_1",
+      "time_slot": "Wednesday",
+      "subject": "Chemistry",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Chemistry"
+    },
+    {
+      "day": "Day_1",
+      "time_slot": "Thursday",
+      "subject": "English",
+      "room": "",
+      "faculty": "",
+      "raw_content": "English"
+    },
+    {
+      "day": "Day_1",
+      "time_slot": "Friday",
+      "subject": "Computer Sci",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Computer Sci"
+    },
+    {
+      "day": "Day_2",
+      "time_slot": "Time / Day",
+      "subject": "10:00 - 11:00 AM",
+      "room": "",
+      "faculty": "",
+      "raw_content": "10:00 - 11:00 AM"
+    },
+    {
+      "day": "Day_2",
+      "time_slot": "Monday",
+      "subject": "Physics",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Physics"
+    },
+    {
+      "day": "Day_2",
+      "time_slot": "Tuesday",
+      "subject": "Mathematics",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Mathematics"
+    },
+    {
+      "day": "Day_2",
+      "time_slot": "Wednesday",
+      "subject": "Computer Sci",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Computer Sci"
+    },
+    {
+      "day": "Day_2",
+      "time_slot": "Thursday",
+      "subject": "Mathematics",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Mathematics"
+    },
+    {
+      "day": "Day_2",
+      "time_slot": "Friday",
+      "subject": "Biology",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Biology"
+    },
+    {
+      "day": "Day_3",
+      "time_slot": "Time / Day",
+      "subject": "11:00 - 11:30 AM",
+      "room": "",
+      "faculty": "",
+      "raw_content": "11:00 - 11:30 AM"
+    },
+    {
+      "day": "Day_3",
+      "time_slot": "Monday",
+      "subject": "BREAK",
+      "room": "",
+      "faculty": "",
+      "raw_content": "BREAK"
+    },
+    {
+      "day": "Day_3",
+      "time_slot": "Tuesday",
+      "subject": "BREAK",
+      "room": "",
+      "faculty": "",
+      "raw_content": "BREAK"
+    },
+    {
+      "day": "Day_3",
+      "time_slot": "Wednesday",
+      "subject": "BREAK",
+      "room": "",
+      "faculty": "",
+      "raw_content": "BREAK"
+    },
+    {
+      "day": "Day_3",
+      "time_slot": "Thursday",
+      "subject": "BREAK",
+      "room": "",
+      "faculty": "",
+      "raw_content": "BREAK"
+    },
+    {
+      "day": "Day_3",
+      "time_slot": "Friday",
+      "subject": "BREAK",
+      "room": "",
+      "faculty": "",
+      "raw_content": "BREAK"
+    },
+    {
+      "day": "Day_4",
+      "time_slot": "Time / Day",
+      "subject": "11:30 - 12:30 PM",
+      "room": "",
+      "faculty": "",
+      "raw_content": "11:30 - 12:30 PM"
+    },
+    {
+      "day": "Day_4",
+      "time_slot": "Monday",
+      "subject": "Chemistry",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Chemistry"
+    },
+    {
+      "day": "Day_4",
+      "time_slot": "Tuesday",
+      "subject": "English",
+      "room": "",
+      "faculty": "",
+      "raw_content": "English"
+    },
+    {
+      "day": "Day_4",
+      "time_slot": "Wednesday",
+      "subject": "Mathematics",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Mathematics"
+    },
+    {
+      "day": "Day_4",
+      "time_slot": "Thursday",
+      "subject": "Physics",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Physics"
+    },
+    {
+      "day": "Day_4",
+      "time_slot": "Friday",
+      "subject": "History",
+      "room": "",
+      "faculty": "",
+      "raw_content": "History"
+    },
+    {
+      "day": "Day_5",
+      "time_slot": "Time / Day",
+      "subject": "12:30 - 01:30 PM",
+      "room": "",
+      "faculty": "",
+      "raw_content": "12:30 - 01:30 PM"
+    },
+    {
+      "day": "Day_5",
+      "time_slot": "Monday",
+      "subject": "LUNCH",
+      "room": "",
+      "faculty": "",
+      "raw_content": "LUNCH"
+    },
+    {
+      "day": "Day_5",
+      "time_slot": "Tuesday",
+      "subject": "LUNCH",
+      "room": "",
+      "faculty": "",
+      "raw_content": "LUNCH"
+    },
+    {
+      "day": "Day_5",
+      "time_slot": "Wednesday",
+      "subject": "LUNCH",
+      "room": "",
+      "faculty": "",
+      "raw_content": "LUNCH"
+    },
+    {
+      "day": "Day_5",
+      "time_slot": "Thursday",
+      "subject": "LUNCH",
+      "room": "",
+      "faculty": "",
+      "raw_content": "LUNCH"
+    },
+    {
+      "day": "Day_5",
+      "time_slot": "Friday",
+      "subject": "LUNCH",
+      "room": "",
+      "faculty": "",
+      "raw_content": "LUNCH"
+    },
+    {
+      "day": "Day_6",
+      "time_slot": "Time / Day",
+      "subject": "01:30 - 02:30 PM",
+      "room": "",
+      "faculty": "",
+      "raw_content": "01:30 - 02:30 PM"
+    },
+    {
+      "day": "Day_6",
+      "time_slot": "Monday",
+      "subject": "Computer Sci",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Computer Sci"
+    },
+    {
+      "day": "Day_6",
+      "time_slot": "Tuesday",
+      "subject": "Biology",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Biology"
+    },
+    {
+      "day": "Day_6",
+      "time_slot": "Wednesday",
+      "subject": "History",
+      "room": "",
+      "faculty": "",
+      "raw_content": "History"
+    },
+    {
+      "day": "Day_6",
+      "time_slot": "Thursday",
+      "subject": "Chemistry",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Chemistry"
+    },
+    {
+      "day": "Day_6",
+      "time_slot": "Friday",
+      "subject": "Art & Design",
+      "room": "",
+      "faculty": "",
+      "raw_content": "Art & Design"
+    }
+  ],
+  "raw_matrix": [
+    [
+      "Time / Day",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    [
+      "09:00 - 10:00 AM",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "English",
+      "Computer Sci"
+    ],
+    [
+      "10:00 - 11:00 AM",
+      "Physics",
+      "Mathematics",
+      "Computer Sci",
+      "Mathematics",
+      "Biology"
+    ],
+    [
+      "11:00 - 11:30 AM",
+      "BREAK",
+      "BREAK",
+      "BREAK",
+      "BREAK",
+      "BREAK"
+    ],
+    [
+      "11:30 - 12:30 PM",
+      "Chemistry",
+      "English",
+      "Mathematics",
+      "Physics",
+      "History"
+    ],
+    [
+      "12:30 - 01:30 PM",
+      "LUNCH",
+      "LUNCH",
+      "LUNCH",
+      "LUNCH",
+      "LUNCH"
+    ],
+    [
+      "01:30 - 02:30 PM",
+      "Computer Sci",
+      "Biology",
+      "History",
+      "Chemistry",
+      "Art & Design"
+    ]
+  ]
+}
